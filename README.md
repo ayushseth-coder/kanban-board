@@ -30,7 +30,7 @@ The goal of this sprint is to demonstrate:
 ## important link 
 github respository link-- https://github.com/ayushseth-coder/kanban-board.git
 
-Live demo Link--
+Live demo Link-- https://kanban-board-teal-iota.vercel.app
 
 video link--
 
