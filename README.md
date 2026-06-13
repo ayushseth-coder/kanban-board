@@ -28,7 +28,11 @@ The goal of this sprint is to demonstrate:
 ---
 
 ## important link 
+github respository link-- https://github.com/ayushseth-coder/kanban-board.git
 
+Live demo Link--
+
+video link--
 
 ---
 
@@ -79,3 +83,11 @@ The board state persists even after a full page refresh.
 ```bash
 npm install
 npm run dev
+
+
+## ✅ Compliance
+
+- Sprint 05 email rules strictly followed  
+- All 3 phases completed  
+- Only allowed technologies used  
+- AI used only for **guidance and understanding**
