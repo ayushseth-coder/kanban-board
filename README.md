@@ -32,7 +32,7 @@ github respository link-- https://github.com/ayushseth-coder/kanban-board.git
 
 Live demo Link-- https://kanban-board-teal-iota.vercel.app
 
-video link--
+video link--https://www.loom.com/share/4786b8766dd44d4e96f342e771643d20
 
 ---
 
